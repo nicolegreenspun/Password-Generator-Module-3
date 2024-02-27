@@ -17,3 +17,6 @@
 * It is done when all prompts are answered, and a password is generated that matches the selected criteria.
 
 * It is done when the password is generated, and the password is either displayed in an alert, or written to the page.
+
+Used [Google](https://www.google.com),https://stackoverflow.com/, and https://developer.mozilla.org/en-US/ to help research this.
+
